@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://www.linkedin.com/in/karena-hong-3180a8188/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMvJ7pyR8RuuV22C8dQPSTA%3D%3D)
+![alt text]([https://www.linkedin.com/in/karena-hong-3180a8188/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMvJ7pyR8RuuV22C8dQPSTA%3D%3D](https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png))
 
 <!-- Add your details -->
 
