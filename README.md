@@ -4,9 +4,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: karenahonghq@gmail.com 
+&nbsp;&nbsp; 📲 +65-82184548
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/karena-hong-3180a8188) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -14,7 +14,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://www.linkedin.com/in/karena-hong-3180a8188/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMvJ7pyR8RuuV22C8dQPSTA%3D%3D)
 
 <!-- Add your details -->
 
