@@ -32,9 +32,9 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Boston Consulting Group
+Trainee<br>
+March-2022 to September-2022: 6 Months
 
 ROLE: Project Manager/ Research Analyst
 UNIT: Beacon Consulting Pte Ltd
