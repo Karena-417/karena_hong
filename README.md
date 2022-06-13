@@ -36,10 +36,17 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Project Manager/ Research Analyst
+UNIT: Beacon Consulting Pte Ltd
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+- Spearheaded research projects (quantitative and qualitative studies) within tight schedule by observing time management and reinforcing self-discipline
+- Executed Rollout Plans to share timeline and manage budget, designed questionnaire to meet the research objective, programmed online surveys, recruitment of skillful fieldworkers, conducted briefing for auditors and surveyors, managed quota monitoring to collect responses that are fair representation of population, performed quality check to preserve data integrity
+- Leveraged on efficient tools and social media to enhance data collection rate
+- Implemented KPI-tracking mechanism and derived staff incentive package to motivate fieldworkers
+- Conducted regular coaching session to mentor the Research Assistants, fieldworkers and interns to maintain their momentum 
+- Conducted data cleaning, data coding of verbatim, report charting and report writing after data collection
+- Presented research findings and recommendations to external stakeholders
+- Organised Internal and External Post Project Reviews with internal and external stakeholders to reflect on areas for improvement and highlight complimentary measures that are applicable on subsequent projects 
 
 <!-- EXPERIENCE Section Ends -->
 
