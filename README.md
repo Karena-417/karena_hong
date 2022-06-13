@@ -6,7 +6,7 @@
 <!-- Add your details -->
 ✉️: karenahonghq@gmail.com 
 &nbsp;&nbsp; 📲 +65-82184548
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](www.linkedin.com/in/karena-hong-3180a8188) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/karena-hong-3180a8188/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
