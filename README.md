@@ -178,14 +178,9 @@ Bachelor's Degree in Business and Management <br><br><br>
 #### Churn Analysis
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+Churn, in a business environment is the term used when customers have canceled their subscription services. It’s important for your business to know your monthly churn rate in order to build strategies for retaining customers and maximizing customer lifetime value.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-Churn, in a business environment is the term used when customers have canceled their subscription services. It’s important for your business to know your monthly churn rate in order to build strategies for retaining customers and maximizing customer lifetime value.
 
 <!-- PROJECTS Section Ends -->
 
-
-##### Achievements
-Star performer of the year at Accenture
-<!-- FEATURED Section Ends -->
