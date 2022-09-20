@@ -66,7 +66,7 @@ March to September 2022<br>
 
 •	Hackathon: Apply Human-Centered Design Thinking <br>
 •	Problem statement: KrisShop faces challenges in striking balance between service efficiency and injecting personalized experience at various customer touch points, which is key to preserve the premium SIA brand <br>
-•	Recommendation: Provide round-the-clock customer service by designing UX based on KrisShop client persona <br> <br>
+•	Recommendation: Provide round-the-clock customer service by designing UX based on KrisShop client persona <br>
 
 •	Capstone: Apply Machine Learning technique (Market Basket Analysis) <br>
 •	Problem statement: SaladStop has recently implemented price change on its menu, and hence would like to understand the impact of price change <br>
