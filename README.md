@@ -108,7 +108,7 @@ March 2018 – June 2018
 •	Proactively implemented suitable endowment plans to value add clients’ portfolio
 
 Achievement: Awarded as UOB Cohort 3 “Best Trainee” of Year 2018 for active participation. Assisted the Associate Branch Manager to coach the junior bankers to excel their monthly KPI. <br>
-Reason for leaving: Headhunted by DBS with better remuneration
+Reason for leaving: Headhunted by DBS with better remuneration <br> <br>
 
 
 ##### Citibank, Know Your Customer (KYC) Department 
@@ -121,7 +121,7 @@ June 2017 – January 2018
 •	Conducted real-time name screenings on corporate stakeholders 
 •	Escalated unusual transaction trends and material adverse news to AML Compliance team
 
-Reason for leaving: Decided to explore sales role for a more holistic and consultative profession
+Reason for leaving: Decided to explore sales role for a more holistic and consultative profession <br> <br>
 
 
 ##### UBS Ag Singapore, Remittance Department 
@@ -132,7 +132,7 @@ September 2016 – March 2017
 •	Ensured accurate and timely execution of domestic and international payment remittances
 •	Managed corporate institution clients and client advisors' queries promptly 
 
-Reason for leaving: Examination preparation for May 2017
+Reason for leaving: Examination preparation for May 2017 <br> <br>
 
 
 ##### United Overseas Bank, Remittance Department 
@@ -145,7 +145,7 @@ December 2014 – August 2016
 •	Assessed urgent and privilege payments with clear priority
 
 Achievement: Voted as Employee of the Month twice in year 2016. Selected as key processor to experiment new centralised platform (Enhanced Workflow channel). Enhanced processing speed with accuracy, increasing department’s efficiency level. <br>
-Reason for leaving: Poached by UBS Remittance with better remuneration
+Reason for leaving: Poached by UBS Remittance with better remuneration <br> <br>
 
 ##### Overseas Chinese Banking Corporation, Contact Centre 
 Customer Service Executive 							         
