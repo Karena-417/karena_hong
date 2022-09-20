@@ -91,6 +91,17 @@ On course from June to August 2022<br><br>
 Achievement: Promoted to Project Manager in 2021 <br>
 Reason for leaving: Pursued further study at BCR RISE by March 2022 <br>
 
+##### Development Bank of Singapore, Sales Department 
+##### Relationship Manager 								              
+##### October 2018 – June 2019
+
+•	Well-versed in insurance saving endowments, unit trusts, mortgage and personal loans
+•	Leveraged on communication skills to strengthen trust with clients
+
+Achievement: Clinched “Rising Star Award” by DBS and Manulife for displaying critical analysis and incorporating Neuro-linguistic Programming (NLP) during sales pitch to establish cordial relationship with prospects
+Reason for leaving: Decided to explore analytical and project management role in Market Research industry
+
+
 
 <!-- EXPERIENCE Section Ends -->
 
