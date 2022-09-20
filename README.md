@@ -86,10 +86,10 @@ November 2019 – February 2022 <br>
 •	Performed code documentation (README) <br>
 •	Presented research findings and recommendations to external stakeholders <br>
 •	Organised Internal and External Post Project Reviews with internal and external stakeholders to reflect on areas for improvement <br>
-•	Highlighted complimentary measures that are applicable on subsequent projects <br> <br>
+•	Highlighted complimentary measures that are applicable on subsequent projects <br>
 
 Achievement: Promoted to Project Manager in 2021 <br>
-Reason for leaving: Pursued further study at BCR RISE by March 2022 <br>
+Reason for leaving: Pursued further study at BCR RISE by March 2022 <br> <br>
 
 ##### Development Bank of Singapore, Sales Department 
 Relationship Manager 								              
