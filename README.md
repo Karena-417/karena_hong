@@ -1,4 +1,4 @@
-# karena_hong
+# Karena Hong Huiqi
 
 <!-- CONTACT Section Starts -->
 ### CONTACT
