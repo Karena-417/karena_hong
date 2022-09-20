@@ -163,7 +163,7 @@ Reason for leaving: New university semester commenced <br> <br> <br>
 ### EDUCATION
 <!-- Add your details -->
 ##### SINGAPORE INSTITUTE OF MANAGEMENT - UNIVERSITY OF LONDON
-Bachelor's Degree in Business and Management
+Bachelor's Degree in Business and Management <br><br><br>
 
 <!-- EDUCATION Section Ends -->
 
