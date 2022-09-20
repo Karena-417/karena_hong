@@ -21,6 +21,18 @@ I am __Karena Hong__, an aspiring data scientist with more than 2 years of progr
 <!-- SKILLSETS Section Starts -->
 ### SKILLSETS
 <!-- Add your details -->
+•	Budget Allocation <br>
+•	People Management <br>
+•	Exploratory Data Analysis (EDA) <br>
+•	Data Preparation and Data Cleaning <br>
+•	Data Analysis using SPSS, Microsoft Excel and Python library (Pandas) <br>
+•	Data Visualisation using Microsoft Excel, Power Bi and Python libraries (Matplotlib, Seaborn) <br>
+•	Structured Query Language (SQL) <br>
+•	Machine Learning Algorithms (Predictive Analytics - Churn Analysis and Market Basket Analysis) <br>
+•	Human-Centered Design <br>
+•	Structured Problem Solving <br> 			 
+•	Story-lining and Client Presentation <br>
+
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
