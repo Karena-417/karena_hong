@@ -171,24 +171,17 @@ Bachelor's Degree in Business and Management
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+[Churn Analysis](#churn-analysis-project) <br>
 
 <!-- Add your details -->
 
-#### Classification based projects
+#### Churn Analysis
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+Churn, in a business environment is the term used when customers have canceled their subscription services. It’s important for your business to know your monthly churn rate in order to build strategies for retaining customers and maximizing customer lifetime value.
 
 <!-- PROJECTS Section Ends -->
 
