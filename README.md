@@ -16,7 +16,10 @@
 
 <!-- Add your details -->
 
-I am __Karena Hong__, an aspiring data scientist with more than 2 years of progressive experience in Market Research and Project Management in Beacon Consulting Pte Ltd. I am currently pursuing my further studies in Data Science with the top-notch Management Consultancy, Boston Consulting Group (BCG), and will complete my 6-month comprehensive traineeship by early September. I am keen to share my learning experience on Creative Thinking, Structured Problem Solving and Human Centric Design that I have applied in my Hackathon with BCG's client, as well as my project faciliation for quantitative and qualitative studies in Beacon Consulting. From now till early September, I will be actively involved in my Capstone (graduation project with BCG) with my fun-loving project mates during our waking moment,  applying skillsets that we are learning (Predictive Analysis by Python and Machine Learning, PowerBi for interactive dashboard, SQL) daily to create massive positive business impact for our Capstone client. Definitely keen to share my Research/Project Management story and learning journey as an asipiring data scientist to you. Yes, coffee on me!  
+I am __Karena Hong__, a Research Analyst and Project Manager from Beacon Consulting Pte Ltd. <br> 
+Recently, I have completed my Business and Data Analytics programme with Boston Consulting Group (BCG RISE from March-September 2022) concurrently with Data Science & Analytics for Strategic Decisions course with Singapore Management University (SMU from June-August 2022). <br>  
+Definitely keen to share my Research Analysis and Project Management journey with you. <br>  
+Yes, coffee on me!  
 
 <!-- SKILLSETS Section Starts -->
 ### SKILLSETS
