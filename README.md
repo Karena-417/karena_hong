@@ -23,6 +23,15 @@ As a strong believer of lifelong learning, I love staying relevant with the indu
 Definitely keen to share my Research Analysis and Project Management journey with you. <br>  
 Yes, coffee on me!  
 
+<!-- ABOUT Section Ends -->
+
+<!-- Add link to the sections -->
+[Skillsets](#skillsets) <br>
+[Professional Certification](#certs) <br>
+[Experience](#experience) <br>
+[Projects](#projects) <br>
+[Education](#education) <br>
+
 <!-- SKILLSETS Section Starts -->
 ### SKILLSETS
 <!-- Add your details -->
@@ -45,15 +54,6 @@ On course from March to September 2022
 •	Singapore Management University - Data Science & Analytics for Strategic Decisions 
 On course from June to August 2022
 
-
-<!-- Add link to the sections -->
-[Skillsets](#skillsets) <br>
-[Professional Certification](#certs) <br>
-[Experience](#experience) <br>
-[Projects](#projects) <br>
-[Education](#education) <br>
-
-<!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
