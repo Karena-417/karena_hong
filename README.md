@@ -61,20 +61,21 @@ On course from June to August 2022<br><br>
 ### EXPERIENCE
 <!-- Add your details -->
 ##### Boston Consulting Group (RISE by DigitalBCG Academy)<br>
-Business and Data Analytics Trainee<br>
-March to September 2022<br>
+##### Business and Data Analytics Trainee<br>
+##### March to September 2022<br>
 
 •	Hackathon: Apply Human-Centered Design Thinking <br>
 •	Problem statement: KrisShop faces challenges in striking balance between service efficiency and injecting personalized experience at various customer touch points, which is key to preserve the premium SIA brand <br>
-•	Recommendation: Provide round-the-clock customer service by designing UX based on KrisShop client persona <br>
+•	Recommendation: Provide round-the-clock customer service by designing UX based on KrisShop client persona <br> <br>
+
 •	Capstone: Apply Machine Learning technique (Market Basket Analysis) <br>
 •	Problem statement: SaladStop has recently implemented price change on its menu, and hence would like to understand the impact of price change <br>
 •	Recommendation: Implement salad bundles based on popular pairing <br> <br>
 
 
-Beacon Consulting Pte Ltd, Research Department <br>   
-Research Analyst/Project Manager <br>                                                                                   
-November 2019 – February 2022 <br>     
+##### Beacon Consulting Pte Ltd, Research Department <br>   
+##### Research Analyst/Project Manager <br>                                                                                   
+##### November 2019 – February 2022 <br>     
   
 •	Spearheaded research projects (quantitative and qualitative studies) within tight schedule by observing time management and reinforcing self-discipline <br>
 •	Executed Rollout Plans to share timeline and manage budget, designed questionnaire to meet the research objectives, programmed online surveys, recruitment of fieldworkers, conducted briefing for auditors and surveyors, managed quota monitoring to collect responses that are fair representation of population, performed quality check to preserve data integrity <br>
