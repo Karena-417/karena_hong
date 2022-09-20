@@ -13,7 +13,6 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://media-exp2.licdn.com/dms/image/D5635AQEFQ2tnZNn4OA/profile-framedphoto-shrink_400_400/0/1649140999577?e=1655715600&v=beta&t=sf34SS4RIZMe2nzalfrt6-GWajwKPVSVVGBSGzwL0Kw)
 
 <!-- Add your details -->
 
