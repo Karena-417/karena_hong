@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Karena Hong__, a Research Analyst and Project Manager from Beacon Consulting Pte Ltd. <br> 
+I am __Karena Hong__, a Research Analyst and Project Manager from Beacon Consulting Pte Ltd. <br> <br>
 Recently, I have completed my Business and Data Analytics programme with Boston Consulting Group (BCG RISE from March-September 2022) concurrently with Data Science & Analytics for Strategic Decisions course with Singapore Management University (SMU from June-August 2022). <br>  
 Definitely keen to share my Research Analysis and Project Management journey with you. <br>  
 Yes, coffee on me!  
