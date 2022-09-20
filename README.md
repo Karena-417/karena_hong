@@ -62,7 +62,7 @@ On course from June to August 2022<br><br>
 <!-- Add your details -->
 ##### Boston Consulting Group (RISE by DigitalBCG Academy)
 Business and Data Analytics Trainee<br>
-March to September 2022<br>
+March – September 2022<br>
 
 •	Hackathon: Apply Human-Centered Design Thinking <br>
 •	Problem statement: KrisShop faces challenges in striking balance between service efficiency and injecting personalized experience at various customer touch points, which is key to preserve the premium SIA brand <br>
@@ -91,7 +91,7 @@ November 2019 – February 2022 <br>
 Achievement: Promoted to Project Manager in 2021 <br>
 Reason for leaving: Pursued further study at BCR RISE by March 2022 <br> <br>
 
-##### Development Bank of Singapore, Sales Department 
+##### Development Bank of Singapore (DBS), Sales Department 
 Relationship Manager 								              
 October 2018 – June 2019
 
@@ -99,7 +99,64 @@ October 2018 – June 2019
 •	Leveraged on communication skills to strengthen trust with clients
 
 Achievement: Clinched “Rising Star Award” by DBS and Manulife for displaying critical analysis and incorporating Neuro-linguistic Programming (NLP) during sales pitch to establish cordial relationship with prospects
-Reason for leaving: Decided to explore analytical and project management role in Market Research industry
+Reason for leaving: Decided to explore analytical and project management role in Market Research industry <br><br>
+
+##### United Overseas Bank, Personal Financial Service Department 
+Personal Banker Associate 								  
+March 2018 – June 2018 
+
+•	Proactively implemented suitable endowment plans to value add clients’ portfolio
+
+Achievement: Awarded as UOB Cohort 3 “Best Trainee” of Year 2018 for active participation. Assisted the Associate Branch Manager to coach the junior bankers to excel their monthly KPI.
+Reason for leaving: Headhunted by DBS with better remuneration
+
+
+##### Citibank, Know Your Customer (KYC) Department 
+KYC Specialist 										
+June 2017 – January 2018 
+(Contract)
+
+•	Liaised with existing corporate clients to retrieve documents for Periodic Review, ensuring due diligence
+•	Evaluated the corporate structure and source of funds
+•	Conducted real-time name screenings on corporate stakeholders 
+•	Escalated unusual transaction trends and material adverse news to AML Compliance team
+
+Reason for leaving: Decided to explore sales role for a more holistic and consultative profession
+
+
+##### UBS Ag Singapore, Remittance Department 
+Payment Specialist 								     
+September 2016 – March 2017 
+(Contract)
+
+•	Ensured accurate and timely execution of domestic and international payment remittances
+•	Managed corporate institution clients and client advisors' queries promptly 
+
+Reason for leaving: Examination preparation for May 2017
+
+
+##### United Overseas Bank, Remittance Department 
+General Administrative Clerk 							     
+December 2014 – August 2016
+(Contract)
+
+•	Processed Telegraphic Transfer and Business Internet Banking channels
+•	Scrutinized ambiguous payments and reconciled with remitters
+•	Assessed urgent and privilege payments with clear priority
+
+Achievement: Voted as Employee of the Month twice in year 2016. Selected as key processor to experiment new centralised platform (Enhanced Workflow channel). Enhanced processing speed with accuracy, increasing department’s efficiency level. 
+Reason for leaving: Poached by UBS Remittance with better remuneration
+
+##### Overseas Chinese Banking Corporation, Contact Centre 
+Customer Service Executive 							         
+June 2014 - September 2014
+(Internship)
+       		    				    
+•	Resolved queries regarding Auto loan, Mortgage loan and Credit Card payment
+ 
+Achievement: Voted as one of the most customer-oriented executives in empathizing customers’ needs, advocating department’s CANsistency core value, establishing cordial relationship with customers
+Reason for leaving: New university semester commenced
+
 
 
 
