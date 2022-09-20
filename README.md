@@ -61,8 +61,8 @@ On course from June to August 2022<br><br>
 ### EXPERIENCE
 <!-- Add your details -->
 ##### Boston Consulting Group (RISE by DigitalBCG Academy)
-##### Business and Data Analytics Trainee
-##### March to September 2022<br>
+Business and Data Analytics Trainee
+March to September 2022<br>
 
 •	Hackathon: Apply Human-Centered Design Thinking <br>
 •	Problem statement: KrisShop faces challenges in striking balance between service efficiency and injecting personalized experience at various customer touch points, which is key to preserve the premium SIA brand <br>
@@ -74,8 +74,8 @@ On course from June to August 2022<br><br>
 
 
 ##### Beacon Consulting Pte Ltd, Research Department    
-##### Research Analyst/Project Manager                                                                                    
-##### November 2019 – February 2022 <br>    
+Research Analyst/Project Manager                                                                                    
+November 2019 – February 2022 <br>    
   
 •	Spearheaded research projects (quantitative and qualitative studies) within tight schedule by observing time management and reinforcing self-discipline <br>
 •	Executed Rollout Plans to share timeline and manage budget, designed questionnaire to meet the research objectives, programmed online surveys, recruitment of fieldworkers, conducted briefing for auditors and surveyors, managed quota monitoring to collect responses that are fair representation of population, performed quality check to preserve data integrity <br>
@@ -92,8 +92,8 @@ Achievement: Promoted to Project Manager in 2021 <br>
 Reason for leaving: Pursued further study at BCR RISE by March 2022 <br>
 
 ##### Development Bank of Singapore, Sales Department 
-##### Relationship Manager 								              
-##### October 2018 – June 2019
+Relationship Manager 								              
+October 2018 – June 2019
 
 •	Well-versed in insurance saving endowments, unit trusts, mortgage and personal loans
 •	Leveraged on communication skills to strengthen trust with clients
