@@ -60,21 +60,18 @@ On course from June to August 2022<br><br>
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### Boston Consulting Group
-Trainee<br>
-March-2022 to September-2022: 6 Months
+##### Boston Consulting Group (RISE by DigitalBCG Academy)<br>
+Business and Data Analytics Trainee<br>
+March to September 2022<br>
 
-ROLE: Project Manager/ Research Analyst
-UNIT: Beacon Consulting Pte Ltd
+•	Hackathon: Apply Human-Centered Design Thinking 
+•	Problem statement: KrisShop faces challenges in striking balance between service efficiency and injecting personalized experience at various customer touch points, which is key to preserve the premium SIA brand
+•	Recommendation: Provide round-the-clock customer service by designing UX based on KrisShop client persona
+•	Capstone: Apply Machine Learning technique (Market Basket Analysis)
+•	Problem statement: SaladStop has recently implemented price change on its menu, and hence would like 
+to understand the impact of price change
+•	Recommendation: Implement salad bundles based on popular pairing 
 
-- Spearheaded research projects (quantitative and qualitative studies) within tight schedule by observing time management and reinforcing self-discipline
-- Executed Rollout Plans to share timeline and manage budget, designed questionnaire to meet the research objective, programmed online surveys, recruitment of skillful fieldworkers, conducted briefing for auditors and surveyors, managed quota monitoring to collect responses that are fair representation of population, performed quality check to preserve data integrity
-- Leveraged on efficient tools and social media to enhance data collection rate
-- Implemented KPI-tracking mechanism and derived staff incentive package to motivate fieldworkers
-- Conducted regular coaching session to mentor the Research Assistants, fieldworkers and interns to maintain their momentum 
-- Conducted data cleaning, data coding of verbatim, report charting and report writing after data collection
-- Presented research findings and recommendations to external stakeholders
-- Organised Internal and External Post Project Reviews with internal and external stakeholders to reflect on areas for improvement and highlight complimentary measures that are applicable on subsequent projects 
 
 <!-- EXPERIENCE Section Ends -->
 
