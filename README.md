@@ -61,7 +61,7 @@ On course from June to August 2022<br><br>
 ### EXPERIENCE
 <!-- Add your details -->
 ##### Boston Consulting Group (RISE by DigitalBCG Academy)
-Business and Data Analytics Trainee
+Business and Data Analytics Trainee<br>
 March to September 2022<br>
 
 •	Hackathon: Apply Human-Centered Design Thinking <br>
