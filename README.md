@@ -38,6 +38,13 @@ Yes, coffee on me!
 •	Structured Problem Solving <br> 			 
 •	Story-lining and Client Presentation <br>
 
+### Professional Certification
+•	Boston Consulting Group – BCG RISE for Business and Data Analytics 
+On course from March to September 2022
+
+•	Singapore Management University - Data Science & Analytics for Strategic Decisions 
+On course from June to August 2022
+
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
