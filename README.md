@@ -155,10 +155,7 @@ June 2014 - September 2014
 •	Resolved queries regarding Auto loan, Mortgage loan and Credit Card payment
  
 Achievement: Voted as one of the most customer-oriented executives in empathizing customers’ needs, advocating department’s CANsistency core value, establishing cordial relationship with customers <br> <br>
-Reason for leaving: New university semester commenced
-
-
-
+Reason for leaving: New university semester commenced <br> <br> <br>
 
 <!-- EXPERIENCE Section Ends -->
 
