@@ -87,7 +87,7 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Bachelor's Degree from SIM-University of London 
 
 ##### Achievements
 Star performer of the year at Accenture
