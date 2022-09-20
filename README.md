@@ -48,6 +48,7 @@ On course from June to August 2022
 
 <!-- Add link to the sections -->
 [Skillsets](#skillsets) <br>
+[Professional Certification](#professional certifications) <br>
 [Experience](#experience) <br>
 [Projects](#projects) <br>
 [Education](#education) <br>
