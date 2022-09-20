@@ -13,24 +13,24 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-
-<!-- Add your details -->
-
+<!-- Add your About -->
 I am __Karena Hong__, a Research Analyst and Project Manager from Beacon Consulting Pte Ltd. <br> <br>
 Recently, I have completed my Business and Data Analytics programme with Boston Consulting Group (BCG RISE from March-September 2022) concurrently with Data Science & Analytics for Strategic Decisions course with Singapore Management University (SMU from June-August 2022). <br> <br> 
 In my 8 years of corporate experience, I have demonstrated the dynamic and resilient side of myself while managing projects in corporate and government entities, achieving my KPI. As a team player, I endeavour to inject spontaneity to my team and aspire to learn from the industry leaders. The moral compass that I continue to uphold throughout these years - Integrity is doing the right thing, even when no one is watching. <br> <br>
 As a strong believer of lifelong learning, I love staying relevant with the industry trend and acquire essential skillsets, staying on top of the game with the likeminded professions. <br> <br>
 Definitely keen to share my Research Analysis and Project Management journey with you. <br>  
 Yes, coffee on me!  
+<!-- About Section Ends -->
 
-<!-- ABOUT Section Ends -->
 
-<!-- Add link to the sections -->
+<!-- Add Links to the sections -->
 [Skillsets](#skillsets) <br>
 [Professional Certification](#certs) <br>
 [Experience](#experience) <br>
 [Projects](#projects) <br>
 [Education](#education) <br>
+<!-- Links Section Ends -->
+
 
 <!-- SKILLSETS Section Starts -->
 ### SKILLSETS
@@ -45,15 +45,17 @@ Yes, coffee on me!
 •	Machine Learning Algorithms (Predictive Analytics - Churn Analysis and Market Basket Analysis) <br>
 •	Human-Centered Design <br>
 •	Structured Problem Solving <br> 			 
-•	Story-lining and Client Presentation <br>
+•	Story-lining and Client Presentation <br><br> 	
+<!-- Skillsets Section Ends -->
 
+
+<!-- PROFESSIONAL CERTIFICATION Section Starts -->
 ### PROFESSIONAL CERTIFICATION
-•	Boston Consulting Group – BCG RISE for Business and Data Analytics 
-On course from March to September 2022
-
-•	Singapore Management University - Data Science & Analytics for Strategic Decisions 
-On course from June to August 2022
-
+•	Boston Consulting Group – BCG RISE for Business and Data Analytics <br>
+On course from March to September 2022<br><br>
+•	Singapore Management University - Data Science & Analytics for Strategic Decisions <br>
+On course from June to August 2022<br><br>
+<!-- Skillsets Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
