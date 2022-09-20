@@ -48,7 +48,6 @@ On course from June to August 2022
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
-[Education](#education) <br>
 [Projects](#projects) <br>
 [Education](#education) <br>
 
