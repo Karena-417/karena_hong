@@ -38,7 +38,7 @@ Yes, coffee on me!
 •	Structured Problem Solving <br> 			 
 •	Story-lining and Client Presentation <br>
 
-### Professional Certification
+### PROFESSIONAL CERTIFICATION
 •	Boston Consulting Group – BCG RISE for Business and Data Analytics 
 On course from March to September 2022
 
@@ -50,7 +50,6 @@ On course from June to August 2022
 [Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -78,8 +77,8 @@ UNIT: Beacon Consulting Pte Ltd
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### SINGAPORE INSTITUTE OF MANAGEMENT - UNIVERSITY OF LONDON
+Bachelor's Degree in Business and Management
 
 <!-- EDUCATION Section Ends -->
 
@@ -108,11 +107,6 @@ Regression is a supervised learning technique which helps in finding the correla
 
 <!-- PROJECTS Section Ends -->
 
-<!-- FEATURED Section Starts -->
-## FEATURED
-<!-- Add your details -->
-##### Certifications
-Bachelor's Degree from SIM-University of London 
 
 ##### Achievements
 Star performer of the year at Accenture
