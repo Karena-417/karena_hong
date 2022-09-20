@@ -88,7 +88,7 @@ November 2019 – February 2022 <br>
 •	Organised Internal and External Post Project Reviews with internal and external stakeholders to reflect on areas for improvement <br>
 •	Highlighted complimentary measures that are applicable on subsequent projects <br>
 
-Achievement: Promoted to Project Manager in 2021 <br>
+Achievement: Promoted to Project Manager in 2021 <br> <br>
 Reason for leaving: Pursued further study at BCR RISE by March 2022 <br> <br>
 
 ##### Development Bank of Singapore (DBS), Sales Department 
@@ -98,7 +98,7 @@ October 2018 – June 2019
 •	Well-versed in insurance saving endowments, unit trusts, mortgage and personal loans
 •	Leveraged on communication skills to strengthen trust with clients
 
-Achievement: Clinched “Rising Star Award” by DBS and Manulife for displaying critical analysis and incorporating Neuro-linguistic Programming (NLP) during sales pitch to establish cordial relationship with prospects <br>
+Achievement: Clinched “Rising Star Award” by DBS and Manulife for displaying critical analysis and incorporating Neuro-linguistic Programming (NLP) during sales pitch to establish cordial relationship with prospects <br> <br>
 Reason for leaving: Decided to explore analytical and project management role in Market Research industry <br><br>
 
 ##### United Overseas Bank, Personal Financial Service Department 
@@ -107,7 +107,7 @@ March 2018 – June 2018
 
 •	Proactively implemented suitable endowment plans to value add clients’ portfolio
 
-Achievement: Awarded as UOB Cohort 3 “Best Trainee” of Year 2018 for active participation. Assisted the Associate Branch Manager to coach the junior bankers to excel their monthly KPI. <br>
+Achievement: Awarded as UOB Cohort 3 “Best Trainee” of Year 2018 for active participation. Assisted the Associate Branch Manager to coach the junior bankers to excel their monthly KPI. <br> <br>
 Reason for leaving: Headhunted by DBS with better remuneration <br> <br>
 
 
@@ -144,7 +144,7 @@ December 2014 – August 2016
 •	Scrutinized ambiguous payments and reconciled with remitters
 •	Assessed urgent and privilege payments with clear priority
 
-Achievement: Voted as Employee of the Month twice in year 2016. Selected as key processor to experiment new centralised platform (Enhanced Workflow channel). Enhanced processing speed with accuracy, increasing department’s efficiency level. <br>
+Achievement: Voted as Employee of the Month twice in year 2016. Selected as key processor to experiment new centralised platform (Enhanced Workflow channel). Enhanced processing speed with accuracy, increasing department’s efficiency level. <br> <br>
 Reason for leaving: Poached by UBS Remittance with better remuneration <br> <br>
 
 ##### Overseas Chinese Banking Corporation, Contact Centre 
@@ -154,7 +154,7 @@ June 2014 - September 2014
        		    				    
 •	Resolved queries regarding Auto loan, Mortgage loan and Credit Card payment
  
-Achievement: Voted as one of the most customer-oriented executives in empathizing customers’ needs, advocating department’s CANsistency core value, establishing cordial relationship with customers
+Achievement: Voted as one of the most customer-oriented executives in empathizing customers’ needs, advocating department’s CANsistency core value, establishing cordial relationship with customers <br> <br>
 Reason for leaving: New university semester commenced
 
 
